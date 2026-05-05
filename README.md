@@ -1,1 +1,3 @@
-# CSE323-Simple-memory-Manager
+# CSE323-Simple-memory-Manager 
+
+Threading and Synchronization
